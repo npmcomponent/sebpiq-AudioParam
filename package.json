@@ -1,19 +1,11 @@
 {
-  "name": "audioparam",
-  "version": "0.1.0",
-  "author": "Sébastien Piquemal",
+  "name": "sebpiq-audioparam",
   "description": "Instantiate a real Web Audio API AudioParam",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:sebpiq/AudioParam.git"
-  },
+  "version": "0.1.0",
   "keywords": [
     "web audio api",
     "audio"
   ],
-  "license": "UNLICENSE",
-  "web-audio": {
-    "type": "tool",
-    "version": "0.1.0"
-  }
+  "dependencies": {},
+  "license": "UNLICENSE"
 }
